@@ -1,0 +1,12 @@
+.idea/
+.langgraph_api/
+agent.egg-info/
+
+src/agent/__pycache__/
+
+src/agent/*/__pycache__/
+
+.env
+
+./*/__pycache__/
+__pycache__/
